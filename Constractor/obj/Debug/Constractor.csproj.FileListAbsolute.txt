@@ -1,0 +1,6 @@
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Constractor\bin\Debug\Constractor.exe.config
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Constractor\bin\Debug\Constractor.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Constractor\bin\Debug\Constractor.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Constractor\obj\Debug\Constractor.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Constractor\obj\Debug\Constractor.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Constractor\obj\Debug\Constractor.csprojResolveAssemblyReference.cache

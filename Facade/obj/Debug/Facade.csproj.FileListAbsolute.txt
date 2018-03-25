@@ -1,0 +1,5 @@
+C:\Users\Nigje\documents\visual studio 2015\Projects\TestEF\Facade\bin\Debug\Facade.exe.config
+C:\Users\Nigje\documents\visual studio 2015\Projects\TestEF\Facade\bin\Debug\Facade.exe
+C:\Users\Nigje\documents\visual studio 2015\Projects\TestEF\Facade\bin\Debug\Facade.pdb
+C:\Users\Nigje\documents\visual studio 2015\Projects\TestEF\Facade\obj\Debug\Facade.exe
+C:\Users\Nigje\documents\visual studio 2015\Projects\TestEF\Facade\obj\Debug\Facade.pdb

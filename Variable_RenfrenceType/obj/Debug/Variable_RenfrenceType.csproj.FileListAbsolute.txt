@@ -1,0 +1,6 @@
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Variable_RenfrenceType\bin\Debug\Variable_RenfrenceType.exe.config
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Variable_RenfrenceType\bin\Debug\Variable_RenfrenceType.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Variable_RenfrenceType\bin\Debug\Variable_RenfrenceType.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Variable_RenfrenceType\obj\Debug\Variable_RenfrenceType.csprojResolveAssemblyReference.cache
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Variable_RenfrenceType\obj\Debug\Variable_RenfrenceType.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Variable_RenfrenceType\obj\Debug\Variable_RenfrenceType.pdb

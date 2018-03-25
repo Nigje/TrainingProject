@@ -1,0 +1,9 @@
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\EF_Console\bin\Debug\EF_Console.exe.config
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\EF_Console\bin\Debug\EF_Console.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\EF_Console\bin\Debug\EF_Console.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\EF_Console\bin\Debug\EntityFramework.dll
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\EF_Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\EF_Console\bin\Debug\EntityFramework.xml
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\EF_Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\EF_Console\obj\Debug\EF_Console.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\EF_Console\obj\Debug\EF_Console.pdb

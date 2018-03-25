@@ -1,0 +1,5 @@
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Bridge\bin\Debug\Bridge.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Bridge\obj\Debug\Bridge.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Bridge\obj\Debug\Bridge.pdb

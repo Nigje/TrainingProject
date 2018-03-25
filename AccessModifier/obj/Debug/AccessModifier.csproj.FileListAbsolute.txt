@@ -1,0 +1,8 @@
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AccessModifier\bin\Debug\AccessModifier.exe.config
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AccessModifier\bin\Debug\AccessModifier.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AccessModifier\bin\Debug\AccessModifier.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AccessModifier\obj\Debug\AccessModifier.csprojResolveAssemblyReference.cache
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AccessModifier\obj\Debug\AccessModifier.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AccessModifier\obj\Debug\AccessModifier.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AccessModifier\bin\Debug\AcessModifier_ClassLibrary.dll
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AccessModifier\bin\Debug\AcessModifier_ClassLibrary.pdb

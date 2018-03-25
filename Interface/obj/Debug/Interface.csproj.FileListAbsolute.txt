@@ -1,0 +1,6 @@
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Interface\bin\Debug\Interface.exe.config
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Interface\bin\Debug\Interface.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Interface\bin\Debug\Interface.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Interface\obj\Debug\Interface.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Interface\obj\Debug\Interface.pdb

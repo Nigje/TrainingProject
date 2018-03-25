@@ -1,0 +1,3 @@
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestEF\bin\Debug\TestEF.exe.config
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestEF\obj\Debug\TestEF.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestEF\obj\Debug\TestEF.pdb

@@ -1,0 +1,12 @@
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Delegate\bin\Debug\Delegate.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Delegate\bin\Debug\Delegate.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Delegate\obj\Debug\Delegate.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Delegate\obj\Debug\Delegate.pdb
+C:\Users\Nigje\Documents\Visual Studio 2017\Projects\TestEF\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\Nigje\Documents\Visual Studio 2017\Projects\TestEF\Delegate\bin\Debug\Delegate.exe
+C:\Users\Nigje\Documents\Visual Studio 2017\Projects\TestEF\Delegate\bin\Debug\Delegate.pdb
+C:\Users\Nigje\Documents\Visual Studio 2017\Projects\TestEF\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+C:\Users\Nigje\Documents\Visual Studio 2017\Projects\TestEF\Delegate\obj\Debug\Delegate.exe
+C:\Users\Nigje\Documents\Visual Studio 2017\Projects\TestEF\Delegate\obj\Debug\Delegate.pdb

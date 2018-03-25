@@ -1,0 +1,5 @@
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TypeCasting\bin\Debug\TypeCasting.exe.config
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TypeCasting\bin\Debug\TypeCasting.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TypeCasting\bin\Debug\TypeCasting.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TypeCasting\obj\Debug\TypeCasting.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TypeCasting\obj\Debug\TypeCasting.pdb

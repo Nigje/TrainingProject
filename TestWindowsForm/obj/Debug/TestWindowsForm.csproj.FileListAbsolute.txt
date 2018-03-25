@@ -1,0 +1,12 @@
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestWindowsForm\bin\Debug\TestWindowsForm.exe.config
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestWindowsForm\bin\Debug\TestWindowsForm.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestWindowsForm\bin\Debug\TestWindowsForm.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestWindowsForm\obj\Debug\TestWindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestWindowsForm\obj\Debug\TestWindowsForm.Form1.resources
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestWindowsForm\obj\Debug\TestWindowsForm.Properties.Resources.resources
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestWindowsForm\obj\Debug\TestWindowsForm.csproj.GenerateResource.Cache
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestWindowsForm\obj\Debug\TestWindowsForm.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestWindowsForm\obj\Debug\TestWindowsForm.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestWindowsForm\bin\Debug\Castle.Core.dll
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestWindowsForm\bin\Debug\Castle.Windsor.dll
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\TestWindowsForm\bin\Debug\Castle.Windsor.xml

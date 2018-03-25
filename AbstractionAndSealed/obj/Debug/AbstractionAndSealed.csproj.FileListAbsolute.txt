@@ -1,0 +1,6 @@
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AbstractionAndSealed\bin\Debug\AbstractionAndSealed.exe.config
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AbstractionAndSealed\bin\Debug\AbstractionAndSealed.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AbstractionAndSealed\bin\Debug\AbstractionAndSealed.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AbstractionAndSealed\obj\Debug\AbstractionAndSealed.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AbstractionAndSealed\obj\Debug\AbstractionAndSealed.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AbstractionAndSealed\obj\Debug\AbstractionAndSealed.csprojResolveAssemblyReference.cache

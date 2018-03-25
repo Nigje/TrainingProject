@@ -1,0 +1,5 @@
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Static_Mode\bin\Debug\Static_Mode.exe.config
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Static_Mode\bin\Debug\Static_Mode.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Static_Mode\bin\Debug\Static_Mode.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Static_Mode\obj\Debug\Static_Mode.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\Static_Mode\obj\Debug\Static_Mode.pdb

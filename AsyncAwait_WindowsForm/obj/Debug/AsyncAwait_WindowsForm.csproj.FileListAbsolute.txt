@@ -1,0 +1,9 @@
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AsyncAwait_WindowsForm\bin\Debug\AsyncAwait_WindowsForm.exe.config
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AsyncAwait_WindowsForm\bin\Debug\AsyncAwait_WindowsForm.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AsyncAwait_WindowsForm\bin\Debug\AsyncAwait_WindowsForm.pdb
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AsyncAwait_WindowsForm\obj\Debug\AsyncAwait_WindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AsyncAwait_WindowsForm\obj\Debug\AsyncAwait_WindowsForm.Form1.resources
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AsyncAwait_WindowsForm\obj\Debug\AsyncAwait_WindowsForm.Properties.Resources.resources
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AsyncAwait_WindowsForm\obj\Debug\AsyncAwait_WindowsForm.csproj.GenerateResource.Cache
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AsyncAwait_WindowsForm\obj\Debug\AsyncAwait_WindowsForm.exe
+C:\Users\Nigje\Documents\Visual Studio 2015\Projects\TestEF\AsyncAwait_WindowsForm\obj\Debug\AsyncAwait_WindowsForm.pdb
