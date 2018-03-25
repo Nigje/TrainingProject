@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleWindsor_Console", "TestEF\CastleWindsor_Console.csproj", "{D94DA92F-1135-4DA5-B663-80B1FABA479C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWindowsForm", "TestWindowsForm\TestWindowsForm.csproj", "{CE3BD432-B5A5-46C8-A7AA-D07F773AFA14}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Console", "EF_Console\EF_Console.csproj", "{8552B860-7B4D-4F25-A113-A749E91CCA3F}"
@@ -55,7 +53,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{C2D8DF7E-5306-436A-BACE-48A07F923334}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "Event\Event.csproj", "{111B6931-DEB4-4B51-B162-690EFBF8C678}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Event", "Event\Event.csproj", "{111B6931-DEB4-4B51-B162-690EFBF8C678}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,10 +61,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D94DA92F-1135-4DA5-B663-80B1FABA479C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D94DA92F-1135-4DA5-B663-80B1FABA479C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D94DA92F-1135-4DA5-B663-80B1FABA479C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D94DA92F-1135-4DA5-B663-80B1FABA479C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CE3BD432-B5A5-46C8-A7AA-D07F773AFA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CE3BD432-B5A5-46C8-A7AA-D07F773AFA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE3BD432-B5A5-46C8-A7AA-D07F773AFA14}.Release|Any CPU.ActiveCfg = Release|Any CPU

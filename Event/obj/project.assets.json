@@ -7075,15 +7075,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nigje\\.nuget\\packages\\": {}
+    "C:\\Users\\m.mirzaie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nigje\\Documents\\Visual Studio 2017\\Projects\\TestEF\\Event\\Event.csproj",
+      "projectUniqueName": "C:\\Users\\m.mirzaie\\Desktop\\TrainingProject\\Event\\Event.csproj",
       "projectName": "Event",
-      "projectPath": "C:\\Users\\Nigje\\Documents\\Visual Studio 2017\\Projects\\TestEF\\Event\\Event.csproj",
-      "outputPath": "C:\\Users\\Nigje\\Documents\\Visual Studio 2017\\Projects\\TestEF\\Event\\obj\\",
+      "projectPath": "C:\\Users\\m.mirzaie\\Desktop\\TrainingProject\\Event\\Event.csproj",
+      "outputPath": "C:\\Users\\m.mirzaie\\Desktop\\TrainingProject\\Event\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
