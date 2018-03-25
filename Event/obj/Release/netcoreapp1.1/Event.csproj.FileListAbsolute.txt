@@ -1,0 +1,9 @@
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\bin\Release\netcoreapp1.1\Event.deps.json
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\bin\Release\netcoreapp1.1\Event.runtimeconfig.json
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\bin\Release\netcoreapp1.1\Event.runtimeconfig.dev.json
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\bin\Release\netcoreapp1.1\Event.dll
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\bin\Release\netcoreapp1.1\Event.pdb
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\obj\Release\netcoreapp1.1\Event.csprojResolveAssemblyReference.cache
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\obj\Release\netcoreapp1.1\Event.AssemblyInfo.cs
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\obj\Release\netcoreapp1.1\Event.dll
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\obj\Release\netcoreapp1.1\Event.pdb

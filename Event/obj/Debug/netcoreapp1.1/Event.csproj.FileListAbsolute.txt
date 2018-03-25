@@ -7,3 +7,12 @@ C:\Users\Nigje\Documents\Visual Studio 2017\Projects\TestEF\Event\obj\Debug\netc
 C:\Users\Nigje\Documents\Visual Studio 2017\Projects\TestEF\Event\obj\Debug\netcoreapp1.1\Event.AssemblyInfo.cs
 C:\Users\Nigje\Documents\Visual Studio 2017\Projects\TestEF\Event\obj\Debug\netcoreapp1.1\Event.dll
 C:\Users\Nigje\Documents\Visual Studio 2017\Projects\TestEF\Event\obj\Debug\netcoreapp1.1\Event.pdb
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\bin\Debug\netcoreapp1.1\Event.deps.json
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\bin\Debug\netcoreapp1.1\Event.runtimeconfig.json
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\bin\Debug\netcoreapp1.1\Event.runtimeconfig.dev.json
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\bin\Debug\netcoreapp1.1\Event.dll
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\bin\Debug\netcoreapp1.1\Event.pdb
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\obj\Debug\netcoreapp1.1\Event.csprojResolveAssemblyReference.cache
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\obj\Debug\netcoreapp1.1\Event.AssemblyInfo.cs
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\obj\Debug\netcoreapp1.1\Event.dll
+C:\Users\m.mirzaie\Desktop\TrainingProject\Event\obj\Debug\netcoreapp1.1\Event.pdb
